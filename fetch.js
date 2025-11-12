@@ -1,0 +1,1 @@
+//hit api on web page we use fetch method 
